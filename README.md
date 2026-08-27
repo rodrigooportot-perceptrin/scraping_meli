@@ -1,4 +1,4 @@
-Web scraping simple de MercadoLibre para los subindicadores de Asequibilidad de Notebook y Teléfono Inteligente, ILIA 2026, visitando la web disponible en cada país sobre la oferta de notebooks y celulares.
+Web scraping simple de MercadoLibre para los subindicadores de Asequibilidad de Notebook y Teléfono Inteligente del ILIA 2026, visitando la web disponible en cada país sobre la oferta de notebooks y celulares.
 
 Requerimientos principales (sin versión específica):
 - Python
