@@ -7,3 +7,5 @@ Requerimientos principales:
 - Pandas y openpyxl
 - Selenium
 
+Se analiza la mayor cantidad de elementos posibles para teléfonos y celulares.
+La plataforma dispone, para el usuario, un máximo de 42 páginas.
