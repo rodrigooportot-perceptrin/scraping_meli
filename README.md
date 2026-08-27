@@ -1,14 +1,13 @@
-Web scraping simple de mercado libre para ILIA 2026
+Web scraping simple de mercado libre para los subindicadores de Asequibilidad de Notebook y Teléfono Inteligente, ILIA 2026, visitando la web de MercadoLibre en cada país, para la oferta de notebooks y celulares.
 
-Visitando los dominios de meli en cada país, para notebooks y celulares.
-
-Requerimientos principales:
-- Python >= 3.10
+Requerimientos principales (sin versión específica):
+- Python
 - Pandas y openpyxl
 - Selenium
 
 Se analiza la mayor cantidad de elementos posibles para notebooks y celulares.
-La plataforma dispone, para el usuario, un máximo de 42 páginas.
+La plataforma dispone, para el usuario, un máximo de 42 páginas, con 60 elementos por cada una.
+Esto entrega un máximo teórico de 2520 elementos para una sola iteración en un país. 
 
 País y Dominio
 
